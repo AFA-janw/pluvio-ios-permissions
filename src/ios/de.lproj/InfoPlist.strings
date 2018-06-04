@@ -1,2 +1,2 @@
-"NSCameraUsageDescription" = "Diese App benötigt Zugriff auf die Kamera, um Bilder aufnehmen zu können.";
-"NSPhotoLibraryUsageDescription" = "Diese App benötigt Zugriff auf das Fotoarchiv, um Bilder auswählen zu können.";
+"NSCameraUsageDescription" = "Um die Registrierung des Sensors zu beschleunigen, bieten wir Ihnen die Möglichkeit, den Barcode mit Ihrer Kamera einzulesen.";
+"NSLocationWhenInUseUsageDescription" = "Diese App nutzt Dienste je nach Standort Ihres Sensors. Um Ihnen genaue Metadaten zur Verfügung stellen zu können, benötigen wir daher Ihren Standort.";
