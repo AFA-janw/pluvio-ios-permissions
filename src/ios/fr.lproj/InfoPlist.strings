@@ -1,2 +1,3 @@
 "NSCameraUsageDescription" = "Pour enregistrer le capteur plus rapidement, nous vous offrons la possibilité de scanner le code-barres à l'aide de votre appareil photo.";
 "NSLocationWhenInUseUsageDescription" = "Cette application utilise des services en fonction de l'emplacement de votre capteur. Afin de vous fournir des métadonnées précises, nous avons donc besoin de votre emplacement.";
+"NSLocationAlwaysUsageDescription" = "Cette application utilise des services en fonction de l'emplacement de votre capteur. Afin de vous fournir des métadonnées précises, nous avons donc besoin de votre emplacement.";
