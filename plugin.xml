@@ -6,15 +6,11 @@
 	<repo>https://github.com/MBuchalik/cordova-plugin-ios-permissions</repo>
 
 	<platform name="ios">
-		<config-file target="*-Info.plist" parent="NSCameraUsageDescription">
-			<string>To speed up the registration of the sensor, we offer you the possibility to scan the barcode using your camera.</string>
-		</config-file>
 		<config-file target="*-Info.plist" parent="NSLocationWhenInUseUsageDescription">
-			<string>This app uses services depending on the location of your sensor. In order to provide you with accurate metadata, we therefore need your location.</string>
+			<string>In order to provide you with accurate metadata, we need your location.</string>
 		</config-file>
 		<resource-file src="src/ios/nl.lproj" />
 		<resource-file src="src/ios/en.lproj" />
-		<resource-file src="src/ios/de.lproj" />
 		<resource-file src="src/ios/fr.lproj" />
 	</platform>
 </plugin>
