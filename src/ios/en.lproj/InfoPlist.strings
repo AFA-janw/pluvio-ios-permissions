@@ -1,3 +1,2 @@
-"NSCameraUsageDescription" = "To speed up the registration of the sensor, we offer you the possibility to scan the barcode using your camera.";
-"NSLocationWhenInUseUsageDescription" = "This app uses services depending on the location of your sensor. In order to provide you with accurate metadata, we therefore need your location.";
-"NSLocationAlwaysUsageDescription" = "This app uses services depending on the location of your sensor. In order to provide you with accurate metadata, we therefore need your location.";
+"NSLocationWhenInUseUsageDescription" = "In order to provide you with accurate metadata, we need your location.";
+"NSLocationAlwaysUsageDescription" = "In order to provide you with accurate metadata, we need your location.";
