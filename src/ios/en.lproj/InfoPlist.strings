@@ -1,2 +1,2 @@
-"NSLocationWhenInUseUsageDescription" = "In order to provide you with accurate metadata, we need your location.";
-"NSLocationAlwaysUsageDescription" = "In order to provide you with accurate metadata, we need your location.";
+"NSLocationWhenInUseUsageDescription" = "In order to provide you with accurate, local precipitation data, you'll need to give the app permission to detect your location.";
+"NSLocationAlwaysUsageDescription" = "In order to provide you with accurate, local precipitation data, you'll need to give the app permission to detect your location.";
